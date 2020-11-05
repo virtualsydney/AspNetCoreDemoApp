@@ -15,7 +15,7 @@ namespace AspNetCoreDemoApp.Controllers
 		    Console.WriteLine(Request.GetDisplayUrl());
 		    Console.WriteLine(Request.GetEncodedUrl());
 
-			return new[] { "Heroku lab v1", "by Golovko Artem" };
+			return new[] { "Heroku lab v2", "by Golovko Artem" };
 		}
 
 		// GET api/values/5
